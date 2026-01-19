@@ -1,12 +1,5 @@
 # 📁 Dossier Médical Partagé (DMP) – Audit et Proposition d'Amélioration
 
-## 👥 Équipe
-- Amine Benmoussa
-- Axel Laposte  
-- Yannis Winkler  
-- Paul Irvoas  
-
----
 
 ## 📝 Contexte du projet
 Dans le cadre de notre projet Epitech T-DIT-810, nous avons réalisé un **audit complet du Dossier Médical Partagé (DMP)**.  
@@ -88,6 +81,14 @@ Notre proposition vise à rendre le DMP :
 - Faciliter l’**adoption par les patients et professionnels de santé**  
 - Créer un **outil pérenne et interopérable** avec les systèmes existants  
 - Fournir un **support de présentation complet** pour « vendre » la solution  
+
+---
+
+## 👥 Équipe
+- Amine Benmoussa
+- Axel Laposte  
+- Yannis Winkler  
+- Paul Irvoas  
 
 ---
 
